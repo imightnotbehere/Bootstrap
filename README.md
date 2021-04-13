@@ -1,2 +1,2 @@
 # Bootstrap
-front end web development with bootstrp
+front end web development with bootstrap
